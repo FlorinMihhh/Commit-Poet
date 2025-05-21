@@ -1,4 +1,4 @@
-# Commit-Poet ✍️
+# Commit-Poet 
 
 Turn your Git commits into lyrical acts of beauty.
 
